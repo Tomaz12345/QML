@@ -1,0 +1,39 @@
+Colab 1:
+
+
+Colab 2:
+- entanglement.py
+- measurement.py
+- noisy_operations.py
+
+
+Colab 3:
+- many_body.py
+- gate_model.py
+- adiabatic_model.py
+
+Colab 4:
+- simple_protocols.py
+- quantum_fourier_transform.py
+
+Colab 5:
+- grover.py
+- landau_zener.py
+
+Colab 6:
+- qaoa.py
+
+Colab 7:
+- block_encoding.py
+- exponential_encoding.py
+
+Colab 8:
+- quantum_thermalisation.py
+- qboost.py
+- quantum_kernel.py
+
+Colab 9:
+- tensor_networks.py
+
+Colab 10:
+- tensor_network_compression.py
